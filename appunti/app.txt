@@ -1,0 +1,1 @@
+Il metodo che si utilizza si chiama fetch()
